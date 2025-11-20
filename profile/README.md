@@ -6,8 +6,6 @@ Open source tools for modern web development.
 
 _Coming soon_ - We're building a comprehensive React component library built on [Base UI](https://base-ui.com), with an extensive theme generator for per-component customization.
 
-<!-- Testing PR workflow -->
-
 ## Links
 
 - [Website](https://oakoss.dev)
