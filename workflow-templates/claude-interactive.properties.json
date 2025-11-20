@@ -1,0 +1,10 @@
+{
+  "name": "Claude Interactive",
+  "description": "Interact with Claude AI by mentioning @claude in issues, PRs, and comments. Claude can help with code reviews, bug fixes, documentation, and more.",
+  "iconName": "code-review",
+  "categories": [
+    "Code Review",
+    "Automation",
+    "AI"
+  ]
+}
